@@ -1,4 +1,4 @@
-📁 Semester 3 & 4 – College Projects & Code Repository
+📁 Semester 3, 4, 5 – College Projects & Code Repository
 
 This repository contains all coursework, assignments, and projects completed during my 4th semester. The focus this semester was primarily on modern web development technologies and data science tools.
 
